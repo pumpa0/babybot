@@ -125,10 +125,10 @@ exports.uangkau = (pushname, sender, uangkau) => {
 
 exports.donasi = () => {
 return`*DONASI KAK*
-Pulsa : 0812-1444-1027
-Gopay : 0855-5924-0360
-Dana : 0855-5924-0360
-Saweria : https://saweria.co/ramlangans
+Pulsa : 0895333226136
+Gopay : 085777019242
+Dana : 085777018242
+Saweria : https://saweria.co/Cidro404
 
 Donasi supaya bot terus update & Aktif`
 }
