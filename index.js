@@ -4,12 +4,12 @@ let path = require('path')
 let fs = require('fs')
 let package = require('./package.json')
 const CFonts  = require('cfonts')
-CFonts.say('BABYBOT WHATSAPP', {
+CFonts.say('ITSME ABDILLAH', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Welcome Ramlan ID`, {
+CFonts.say(`Welcome Hafidz Abdillah`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
@@ -45,4 +45,4 @@ function start(file) {
   })
   // console.log(p)
 }
-start('ramlan.js')
+start('abdillah.js')
