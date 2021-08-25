@@ -45,4 +45,4 @@ function start(file) {
   })
   // console.log(p)
 }
-start('abdillah.js')
+start('ramlan.js')
